@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953787493216",
+    "firebase_url": "https://hellobondhu-6ad05.firebaseio.com",
+    "project_id": "hellobondhu-6ad05",
+    "storage_bucket": "hellobondhu-6ad05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953787493216:android:3adc7a5cb89578d3",
+        "android_client_info": {
+          "package_name": "com.afrovi.hellobondhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953787493216-ck3c210tbbpm6e70ks4j1rmca0cj75nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afrovi.hellobondhu",
+            "certificate_hash": "3dd13187f70dc3182b9a8f6b05ffb2f9b0764ae0"
+          }
+        },
+        {
+          "client_id": "953787493216-31e3cqrjb7fds69123au99ipfvdun0q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAnlMPb2KFkClVGLIr39CF9odJs5UzAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953787493216-31e3cqrjb7fds69123au99ipfvdun0q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
